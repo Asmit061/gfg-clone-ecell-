@@ -7,6 +7,8 @@ skills:
   <li>html
   <li>css
   <li>javascript
- <br>
+</ul>
+<br>
+>>>>go to master branch for files
 
 # learning-more-skills-day-to-day :slightly_smiling_face:
